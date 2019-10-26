@@ -5,7 +5,7 @@ This simple, single-purpose Python script sums CSVs (comma separated values) in 
 
 Only files, sheets and columns that meet the following requirements are considered in the sum process:
 
-- Files with '.xls' extension.
+- Files with '.xls' or '.xlsx' extension.
 - Files with a title that contain the keyword 'ΤΡΟΦΙΜΑ'.
 - Sheets with a title that contain the keyword 'ΠΑΚΕΤΟ'.
 - Columns D and/or E. 
